@@ -1,25 +1,16 @@
 # Praktikum-10
 
-#txt = "Halo Kata"
+### txt = "Hello word"
+### * Hitung jumlah karakternya
+### * Ambil karakter terakhir
+### * Ambil karakter index ke-2 sampai index ke-4 (llo)
+### * Hilangkan spasi pada text tertentu (Hello word)
+### * Ubah text menjadi huruf besar
+### * Ubah text menjadi huruf kecil
+### * Ganti karakter H dengan karakter J
 
-*Hitung jumlah karakternya
+## Code
+![praktikum 10 gambar 1](https://user-images.githubusercontent.com/116246238/213142580-66491b65-e75b-47da-9313-6312bbc2ad79.png)
 
-*Ambil karakter terakhir
-
-*Ambil indeks karakter ke-2 sampai indeks ke-4(llo)
-
-*Hilangkan spasi pada teks tertentu (Hello word)
-
-*Ubah teks menjadi huruf besar
-
-*Ubah teks menjadi huruf kecil
-
-*Ganti karakter H dengan karakter J
-
-#Kode
-
-![praktikum 10 gambar 1](https://user-images.githubusercontent.com/116246238/213125080-16d9761b-f4f2-4efd-802f-17ebbda1eb7d.png)
-
-#Keluaran
-
-![praktikum 10 gambar 2](https://user-images.githubusercontent.com/116246238/213125239-b6597ae4-1d22-4ea3-8b82-04033640b7df.png)
+## Output
+![praktikum 10 gambar 2](https://user-images.githubusercontent.com/116246238/213142880-a00f3824-b1e8-45f2-8c4f-b6185c1c42c2.png)
