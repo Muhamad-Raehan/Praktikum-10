@@ -6,7 +6,7 @@
 
 *Ambil karakter terakhir
 
-*Ambil indeks karakter ke-2 sampai indeks ke-4()
+*Ambil indeks karakter ke-2 sampai indeks ke-4(llo)
 
 *Hilangkan spasi pada teks tertentu (Hello word)
 
